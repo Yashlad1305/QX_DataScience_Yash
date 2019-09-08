@@ -1,2 +1,0 @@
-reading 1st line
-reading 2nd line
